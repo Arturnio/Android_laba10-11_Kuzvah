@@ -103,6 +103,7 @@ fun Android_laba1011_KuzvahTheme(
     MaterialTheme(
         colorScheme = colorScheme,
         typography = Typography,
+        shapes = Shapes,
         content = content
     )
 }
