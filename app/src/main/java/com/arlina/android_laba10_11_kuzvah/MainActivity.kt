@@ -123,3 +123,11 @@ fun StudentPreview(){
         StudentApp()
     }
 }
+
+@Preview
+@Composable
+fun StudentDarkThemePreview(){
+    Android_laba1011_KuzvahTheme(darkTheme = true) {
+        StudentApp()
+    }
+}
